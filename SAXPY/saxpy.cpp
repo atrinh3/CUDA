@@ -1,12 +1,3 @@
-allocate memory
-
-transfer data from host to device
-
-run kernel
-
-transfer output from device to host
-
-
 std::vector<std::int> getData(filename)
 {
     index = 0;   
